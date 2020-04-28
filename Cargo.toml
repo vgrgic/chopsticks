@@ -1,5 +1,5 @@
 [package]
-name = "Chopsticks"
+name = "chopsticks"
 version = "0.1.0"
 authors = ["vgrgic <viktor@odd-e.com>"]
 edition = "2018"
